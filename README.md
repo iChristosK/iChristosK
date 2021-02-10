@@ -10,10 +10,10 @@
     <img style="border-radius: 10px;"  src="https://ichristosk.github.io/assets/images/cover_stupid.png" width="425" height="295">
    <img style="border-radius: 10px;"  src="https://ichristosk.github.io/assets/images/cover_stupid_2.png" width="425" height="295">
 </p>
-<p  align="start">
+<!--<p  align="start">
       <img style="border-radius: 10px;"  src="https://ichristosk.github.io/assets/images/character.png" width="850" height="580">
 
-   </p>
+   </p> -->
  
 
 - 🌱 I’m currently learning SwiftUI <p align="start">
