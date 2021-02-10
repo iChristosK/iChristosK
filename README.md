@@ -20,7 +20,7 @@
    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="80" height="80"></p>
   
   
-- ✨I have stronge experience with Swift <p align="start">
+- ✨I have strong experience with Swift <p align="start">
    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/1300/swift-seeklogo-512.png" width="80" height="80"></p>
    
 
