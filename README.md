@@ -7,8 +7,8 @@
 <a href="https://apps.apple.com/us/app/dotish/id1539633724?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 550px; height: 383px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-US?size=250x83&amp;releaseDate=1605312000&h=5cc0ae4ab1cbeab19026511877ad0685" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 550px; height: 383px;"></a>
 
 <p  align="start">
-    <img style="border-radius: 10px;"  src="https://ichristosk.github.io/assets/images/cover_stupid.png" width="425" height="295">
-   <img style="border-radius: 10px;"  src="https://ichristosk.github.io/assets/images/cover_stupid_2.png" width="425" height="295">
+    <img style="border-radius: 10px;"  src="https://ichristosk.github.io/assets/images/cover_stupid.png" width="405" height="265">
+   <img style="border-radius: 10px;"  src="https://ichristosk.github.io/assets/images/cover_stupid_2.png" width="405" height="265">
 </p>
 <!--<p  align="start">
       <img style="border-radius: 10px;"  src="https://ichristosk.github.io/assets/images/character.png" width="850" height="580">
