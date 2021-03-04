@@ -1,7 +1,7 @@
 
 ### Hello 👋
 
-
+<!--
 - 🔭 I’ve recently released a personal project, an iOS app called Dotish includes AI using CreateML and CoreML. Go check it out!
 
 <a href="https://apps.apple.com/us/app/dotish/id1539633724?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 550px; height: 383px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-US?size=250x83&amp;releaseDate=1605312000&h=5cc0ae4ab1cbeab19026511877ad0685" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 550px; height: 383px;"></a>
@@ -30,7 +30,7 @@
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I ♥️ 
 
-<!--
+
 **iChristosK/iChristosK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
