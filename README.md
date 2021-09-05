@@ -3,9 +3,6 @@
 
 I've released released 2 apps on the app store
 
-<div  style="content: "";
-  clear: both;
-  display: table;">
   <div style="float: left;
   width: 49%;
   padding: 5px;">
@@ -23,14 +20,6 @@ I've released released 2 apps on the app store
 <a href="https://apps.apple.com/us/app/heartfelt/id1575082988?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1630108800&h=f01eeda256152372537a7684022321cb" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
   </div>
-</div>
-
-# 1 
-
-
-
-# 2 
-
 
 
 
