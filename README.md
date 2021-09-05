@@ -3,9 +3,12 @@
 
 I've released released 2 apps on the app store
 
-  <div style="float: left;
-  width: 49%;
-  padding: 5px;">
+<div align="center">
+<div style="display: inline-block"> <img src="https://ichristosk.github.io/assets/images/dotish.png"> </div>
+<div style="display: inline-block"> <img src="https://ichristosk.github.io/assets/images/heartfelt.png"> </div>
+</div>
+
+ 
    <a href="https://apps.apple.com/us/app/dotish/id1539633724?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://ichristosk.github.io/assets/images/dotish.png" alt="Dotish" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 
