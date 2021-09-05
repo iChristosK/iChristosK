@@ -3,12 +3,14 @@
 
 I've released released 2 apps on the app store
 
-<div class="section">
-  <div id="dB" class="element-left" }>
-    <a href="http://notareallink.com" title="Download" id="buyButton">Download</a>
+<div style="display: flex">
+  <div  class=" width: 94%;">
+    <a href="https://apps.apple.com/us/app/dotish/id1539633724?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://ichristosk.github.io/assets/images/dotish.png" alt="Dotish" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+
   </div>
-  <div id="gB" class="element-right">
-    <a href="#" title="Gallery" onclick="$j('#galleryDiv').toggle('slow');return false;" id="galleryButton">Gallery</a>
+  <div style="flex-grow: 1;">
+     <a href="https://apps.apple.com/us/app/dotish/id1539633724?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://ichristosk.github.io/assets/images/dotish.png" alt="Dotish" style="width: 170px; height: 170px; border-top-left-radius: 22%; border-top-right-radius: 22%; border-bottom-right-radius: 22%; border-bottom-left-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+
   </div>
 </div>
  
