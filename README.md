@@ -25,6 +25,7 @@ Dotish
  ✨I have strong experience with Swift <p align="start">
    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/1300/swift-seeklogo-512.png" width="80" height="80"></p>
    
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fionicframework.com%2Freact&psig=AOvVaw28iry7g9fqss_ZO_9S-mfb&ust=1637704309188000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCa15L6rPQCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/16455384/142940463-63764364-7cbe-409d-8d05-85079a3a5ff6.png)" width="80" height="80"></p>
 
    
   
