@@ -18,8 +18,8 @@ Dotish
    <br> It's a virtual assistant in Greek that answers basic questions.
    </p>
 
-🌱 I’m currently learning SwiftUI <p align="start">
-   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="80" height="80"></p>
+<!-- 🌱 I’m currently learning SwiftUI <p align="start"> -->
+<!--    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="80" height="80"></p> -->
   
   
  ✨I have strong experience with Swift <p align="start">
@@ -28,7 +28,7 @@ Dotish
 
    
   
- 👯 I’m looking to collaborate on iOS Apps.
+ 👯 I’m looking to collaborate on new mobile app ideas.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I ♥️ 
 
