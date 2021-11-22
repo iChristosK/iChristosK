@@ -25,7 +25,7 @@ Dotish
  ✨I have strong experience with Swift and Ionic (React,Angular) <p align="start">
    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/1300/swift-seeklogo-512.png" width="80" height="80"></p>
    
- <img src="https://pbs.twimg.com/profile_images/1415143192782049281/efb7W1Z0_400x400.jpg" width="80" height="80"></p>
+ <img style="border-radius:22%" src="https://pbs.twimg.com/profile_images/1415143192782049281/efb7W1Z0_400x400.jpg" width="80" height="80"></p>
 
    
   
