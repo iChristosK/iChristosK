@@ -1,6 +1,6 @@
 
 ### Hello 👋
-
+<!-- 
 I've released 2 iOS apps on the App Store
 
 
@@ -17,17 +17,13 @@ Heartfelt.
 Dotish
    <br> It's a virtual assistant in Greek that answers basic questions.
    </p>
-
-<!-- 🌱 I’m currently learning SwiftUI <p align="start"> -->
-<!--    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="80" height="80"></p> -->
-  
   
  ✨I have strong experience with Swift and Ionic (React,Angular) <p align="start">
    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/1300/swift-seeklogo-512.png" width="80" height="80"></p>
    
  <img  src="https://www.shareicon.net/data/512x512/2016/07/10/119476_development_512x512.png" width="80" height="80"></p>
 
-   
+    -->
   
  👯 I’m looking to collaborate on new mobile app ideas.
 - 💬 Ask me about anything.
