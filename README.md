@@ -27,6 +27,6 @@ Dotish
   
  👯 I’m looking to collaborate on new mobile app ideas.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I ♥️ 
+<!-- - ⚡ Fun fact: I ♥️  -->
 
 
