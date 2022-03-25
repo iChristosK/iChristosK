@@ -1,5 +1,5 @@
 
-### Hello 👋
+### Hello, I am Christos 👋
 <!-- 
 I've released 2 iOS apps on the App Store
 
