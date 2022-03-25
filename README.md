@@ -26,17 +26,17 @@ Dotish
     -->
     
     const christos = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Swift, Java],
-  tools: [React, Angular, Redux, Node, Styled-Components, Firebase],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
+    pronouns: "she" | "her",
+    code: [Javascript, Typescript, HTML, CSS, Swift, Java],
+    tools: [React, Angular, Redux, Node, Styled-Components, Firebase],
+    architecture: ["microservices", "event-driven", "design system pattern"],
+    techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+    challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+      }
   
  👯 I’m looking to collaborate on new mobile app ideas.
 - 💬 Ask me about anything.
