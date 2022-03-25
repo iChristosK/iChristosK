@@ -24,6 +24,19 @@ Dotish
  <img  src="https://www.shareicon.net/data/512x512/2016/07/10/119476_development_512x512.png" width="80" height="80"></p>
 
     -->
+    
+    const christos = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Swift, Java],
+  tools: [React, Angular, Redux, Node, Styled-Components, Firebase],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
   
  👯 I’m looking to collaborate on new mobile app ideas.
 - 💬 Ask me about anything.
