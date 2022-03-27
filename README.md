@@ -11,7 +11,7 @@
     			"Apple, Google, Github, Dribble"
     		},
     	},
-    	challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    	challenge: "I am doing a challenge focused on react and typescript"
     }
   
  👯 I’m looking to collaborate on new mobile app ideas.
