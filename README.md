@@ -11,7 +11,7 @@
     			"Apple, Google, Github, Dribble"
     		},
     	},
-    	challenge: "I am doing a challenge focused on react and typescript"
+    	challenge: "I am doing a coding challenge "
     }
   
  👯 I’m looking to collaborate on new mobile app ideas.
