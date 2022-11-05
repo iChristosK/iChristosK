@@ -4,7 +4,7 @@
     const christos = {
     	pronouns: "he" | "his",
     	code: [Javascript, Typescript, HTML, CSS, Swift, Java],
-    	tools: [React, Angular, Redux, Node, Styled - Components, Firebase, Ionic],
+    	tools: [React, Angular, Redux, Node, Firebase, Ionic],
     	I ♥️ the following: {
     		Mobile Development,
     		companies: {
