@@ -4,11 +4,11 @@
     const christos = {
     	pronouns: "he" | "his",
     	code: [Javascript, Typescript, HTML, CSS, Swift, Java],
-    	tools: [React, Angular, Redux, Node, Firebase, Ionic],
+    	tools: [React-Native, React, Redux, Node, Firebase, Ionic, Angular],
     	I ♥️ the following: {
     		Mobile Development,
     		companies: {
-    			"Apple, Google, Github, Dribble"
+    			"Apple, Google, Github, Meta"
     		},
     	},
     	challenge: "I am doing a coding challenge "
