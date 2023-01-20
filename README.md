@@ -8,7 +8,7 @@
     	I ♥️ the following: {
     		Mobile Development,
     		companies: {
-    			"Apple, Google, Github, Meta"
+    			"Apple, Google, Github, Meta, OpenAI"
     		},
     	},
     	challenge: "I am doing a coding challenge "
