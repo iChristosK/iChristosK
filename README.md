@@ -3,8 +3,8 @@
     
     const christos = {
     	pronouns: "he" | "his",
+        tools: [React-Native, React, Redux, Node, Firebase, Ionic, Angular],
     	code: [Javascript, Typescript, HTML, CSS, Swift, Java],
-    	tools: [React-Native, React, Redux, Node, Firebase, Ionic, Angular],
     	I ♥️ the following: {
     		Mobile Development,
     		companies: {
