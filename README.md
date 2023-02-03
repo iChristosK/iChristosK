@@ -8,10 +8,10 @@
     	I ♥️ the following: {
     		Mobile Development,
     		companies: {
-    			"Apple, Google, Github, Meta, OpenAI"
+    			" Apple, Google, Github, Meta, OpenAI"
     		},
     	},
-    	challenge: "I am doing a coding challenge "
+    	new_app: "coming July 2023"
     }
   
  👯 I’m looking to collaborate on new mobile app ideas.
