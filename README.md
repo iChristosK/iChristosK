@@ -8,8 +8,8 @@
                     Mobile Development,
     		        companies: {
     		        	"Apple, Google, Github, Meta, OpenAI"
-    	             	},
-                	},
+    	             },
+                    },
                 }
   
 
