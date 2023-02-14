@@ -10,8 +10,7 @@
     		        	"Apple, Google, Github, Meta, OpenAI"
     	             	},
                 	},
-       	new_app: "coming July 2023"
-    }
+                }
   
 
 
