@@ -1,16 +1,1 @@
-
-    
-    const christos = {
-                pronouns: "he" | "his",
-                tools: [React-Native, React, Redux, Node, Firebase, Ionic, Angular],
-                code: [Javascript, Typescript, HTML, CSS, Swift, Java],
-                I ♥️ the following: {
-                    Mobile Development,
-    		        companies: {
-    		        	"Apple, Google, Github, Meta, OpenAI"
-    	             },
-                    },
-                }
-  
-
-
+[![](https://github-readme-stats.vercel.app/api?username=ichristosk&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
