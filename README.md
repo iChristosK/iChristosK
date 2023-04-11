@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1050&pause=10&color=7AFF97&multiline=true&repeat=false&width=435&height=100&lines=Hey!;I'm+Christos;I+am+28+years+old%2C+from+Cyprus;And+I'm+obsssesssSSSed+with+React+Native+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1050&pause=10&color=7AFF97&multiline=true&repeat=false&width=435&height=100&lines=Hey!;I'm+Christos;I+am+28+years+old%2C+from+Cyprus;And+I'm+obsessed+with+React+Native+" alt="Typing SVG" /></a>
 
 [![](https://github-readme-stats.vercel.app/api?username=ichristosk&include_all_commits=true&hide=stars&bg_color=00000000&hide_border=true&hide_title=true&count_private=true&show_icons=true&theme=dark&ring_color=7AFF97)](https://github.com/anuraghazra/github-readme-stats)
 
