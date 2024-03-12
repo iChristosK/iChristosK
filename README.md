@@ -1,6 +1,6 @@
 <h3 align="left">Introduction</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1050&pause=10&color=7AFF97&multiline=true&repeat=false&width=435&height=100&lines=Hello+👋🏻;Born+in+Cyprus+based+in+Belgium!;Creating+mobile+apps+since+2019!;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1050&pause=10&color=7AFF97&multiline=true&repeat=false&width=435&height=100&lines=Hello+👋;Born+in+Cyprus+based+in+Belgium!;Creating+mobile+apps+since+2019!;" alt="Typing SVG" /></a>
 
 <h3 align="left">Languages and Tools</h3>
 
